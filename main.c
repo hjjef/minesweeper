@@ -1,10 +1,4 @@
-//
-//  main.c
-//  Minesweeper
-//
-//  Created by Henry Jeffers on 8/8/17.
-//  Copyright © 2017 Henry Jeffers. All rights reserved.
-//
+
 
 
 /*
